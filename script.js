@@ -53,7 +53,7 @@ const labSchedule = {
         { course: "CSE221-09", faculty: "CMHH,MZW", day: "SAT", time: "8:00 AM" },
         { course: "CSE221-10", faculty: "TAP,MZW", day: "SAT", time: "11:00 AM" },
         { course: "CSE221-11", faculty: "FDZ,SJM", day: "SAT", time: "2:00 PM" },
-        { course: "CSE221-12", faculty: "CMHQ,FDZ", day: "SAT", time: "8:00 AM" }
+        
     ],
     "09B-10L": [
         { course: "CSE110-04", faculty: "MSI,CAKM", day: "WED", time: "11:00 AM" },
@@ -70,7 +70,8 @@ const labSchedule = {
         { course: "CSE221-13", faculty: "TBC,MRIA", day: "SAT", time: "11:00 AM" },
         { course: "CSE402-01", faculty: "SDAS,NFS", day: "THU", time: "11:00 AM" },
         { course: "CSE428-03", faculty: "SDQ,MOM", day: "TUE", time: "2:00 PM" },
-        { course: "CSE481-01", faculty: "SDS,NFS", day: "THU", time: "8:00 AM" }
+        { course: "CSE481-01", faculty: "SDS,NFS", day: "THU", time: "8:00 AM" },
+       { course: "CSE221-12", faculty: "CMHQ,FDZ", day: "SAT", time: "8:00 AM" }
     ],
     "09B-11L": [
         { course: "CSE110-14", faculty: "CAKM,CSAB", day: "THU", time: "8:00 AM" },
