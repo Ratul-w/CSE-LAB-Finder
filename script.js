@@ -627,7 +627,6 @@ function searchLabs() {
             `;
         }).join('');
     }
-    
     resultsDiv.classList.add('show');
 }
 
