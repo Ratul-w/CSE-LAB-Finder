@@ -97,18 +97,19 @@ const labSchedule = {
         { course: "CSE111-13", faculty: "ATY,CSSA", day: "WED", time: "2:00 PM" },
         { course: "CSE221-01", faculty: "ARD,CMHQ", day: "SUN", time: "8:00 AM" },
         { course: "CSE221-04", faculty: "ARD,AYO", day: "SUN", time: "11:00 AM" },
-        { course: "CSE221-05", faculty: "CAYR,AYO", day: "SUN", time: "2:00 PM" },
+       
         { course: "CSE460-02", faculty: "AKJ,ZIZE", day: "SAT", time: "2:00 PM" },
         { course: "CSE460-03", faculty: "SDU,ARPD", day: "THU", time: "2:00 PM" },
         { course: "CSE460-04", faculty: "SDU,UPM", day: "MON", time: "11:00 AM" },
         { course: "CSE460-06", faculty: "RAS,MTOT", day: "TUE", time: "11:00 AM" },
         { course: "CSE460-07", faculty: "RAS,ARPD", day: "THU", time: "11:00 AM" },
         { course: "CSE460-08", faculty: "AKJ,DPRN", day: "SAT", time: "11:00 AM" },
+         { course: "CSE221-15", faculty: "TAP,CRHB", day: "SUN", time: "2:00 PM" },
         { course: "CSE460-12", faculty: "DPRN,SDL", day: "MON", time: "2:00 PM" }
     ],
     "09E-22L": [
-        { course: "CSE221-18", faculty: "AROY,CESF", day: "SAT", time: "8:00 AM" },
-        { course: "CSE221-19", faculty: "ANWE,CSYR", day: "SAT", time: "2:00 PM" },
+        { course: "CSE221-18", faculty: "AROY,CESF", day: "SUN", time: "8:00 AM" },
+        { course: "CSE221-19", faculty: "ANWE,CSYR", day: "SUN", time: "11:00 PM" },
         { course: "CSE221-22", faculty: "ZLNM,ANWE", day: "SUN", time: "2:00 PM" },
         { course: "CSE321-27", faculty: "CSSA,AHA", day: "MON", time: "11:00 AM" },
         { course: "CSE423-03", faculty: "SRU,SMUR", day: "TUE", time: "11:00 AM" },
@@ -129,17 +130,15 @@ const labSchedule = {
     "09F-24L": [
         { course: "CSE221-05", faculty: "CAYR,AYO", day: "SUN", time: "2:00 PM" },
         { course: "CSE221-14", faculty: "FGZ,ANK", day: "SUN", time: "11:00 AM" },
-        { course: "CSE221-15", faculty: "TAP,CRHB", day: "SUN", time: "2:00 PM" },
+       
         { course: "CSE221-23", faculty: "FBAW,SJM", day: "SUN", time: "8:00 AM" },
         { course: "CSE421-15", faculty: "SRJ,NDT", day: "TUE", time: "11:00 AM" },
         { course: "CSE421-16", faculty: "SRJ,NDT", day: "TUE", time: "11:00 AM" },
         { course: "CSE422-07", faculty: "MHDE,YND", day: "MON", time: "2:00 PM" },
         { course: "CSE422-10", faculty: "NWT,MUNR", day: "MON", time: "8:00 AM" },
         { course: "CSE422-13", faculty: "ZHS,RSS", day: "MON", time: "11:00 AM" },
-        { course: "CSE423-01", faculty: "MZFZ,CAPN", day: "SAT", time: "11:00 AM" },
-        { course: "CSE423-02", faculty: "MZFZ,CAPN", day: "SAT", time: "11:00 AM" },
-        { course: "CSE423-05", faculty: "MZFZ,NMP", day: "SAT", time: "2:00 PM" },
-        { course: "CSE423-06", faculty: "MZFZ,NMP", day: "SAT", time: "2:00 PM" },
+        
+     
         { course: "CSE423-17", faculty: "AJA,CAPN", day: "TUE", time: "2:00 PM" },
         { course: "CSE423-19", faculty: "SOSB,MZFZ", day: "WED", time: "11:00 AM" },
         { course: "CSE423-20", faculty: "AJA,CAPN", day: "TUE", time: "2:00 PM" },
@@ -191,7 +190,7 @@ const labSchedule = {
         { course: "CSE422-11", faculty: "PLN,CMHH", day: "THU", time: "8:00 AM" },
         { course: "CSE422-12", faculty: "LBBH,AJK", day: "THU", time: "11:00 AM" },
         { course: "CSE422-15", faculty: "ANV,CSSA", day: "THU", time: "2:00 PM" },
-        { course: "CSE422-16", faculty: "RRH,FMK", day: "THU", time: "8:00 AM" },
+        
         { course: "CSE422-17", faculty: "MUNR,WHMJ", day: "TUE", time: "8:00 AM" },
         { course: "CSE422-19", faculty: "ZHS,RSS", day: "SUN", time: "11:00 AM" },
         { course: "CSE422-20", faculty: "SHAH,YND", day: "SUN", time: "2:00 PM" },
@@ -203,6 +202,11 @@ const labSchedule = {
     ],
     "09F-27L": [
         { course: "CSE110-17", faculty: "ANV,CNFH", day: "THU", time: "11:00 AM" },
+        
+        { course: "CSE423-02", faculty: "MZFZ,CAPN", day: "SAT", time: "11:00 AM" },
+           { course: "CSE423-05", faculty: "MZFZ,NMP", day: "SAT", time: "2:00 PM" },
+        { course: "CSE423-06", faculty: "MZFZ,NMP", day: "SAT", time: "2:00 PM" },
+        
         { course: "CSE422-06", faculty: "YND,RZR", day: "WED", time: "2:00 PM" },
         { course: "CSE422-16", faculty: "RRH,FMK", day: "THU", time: "8:00 AM" },
         { course: "CSE422-23", faculty: "PLN,IRZ", day: "SAT", time: "8:00 AM" },
