@@ -477,9 +477,9 @@ const labSchedule = {
     ],
     "10G-33L": [
         { course: "CSE321-11", faculty: "ZYH,ANNH", day: "MON", time: "8:00 AM" },
-        { course: "CSE320-20", faculty: "SMKD,KBS", day: "THU", time: "8:00 AM" },
-        { course: "CSE320-21", faculty: "SMKD,KBS", day: "THU", time: "11:00 AM" },
-        { course: "CSE320-22", faculty: "CRHB,SJM", day: "THU", time: "2:00 PM" },
+        { course: "CSE321-20", faculty: "SMKD,KBS", day: "THU", time: "8:00 AM" },
+        { course: "CSE321-21", faculty: "SMKD,KBS", day: "THU", time: "11:00 AM" },
+        { course: "CSE321-22", faculty: "CRHB,SJM", day: "THU", time: "2:00 PM" },
         { course: "CSE461-02", faculty: "RFF,SMYA", day: "THU", time: "2:00 PM" },
         { course: "CSE461-03", faculty: "RDW,SMYA", day: "TUE", time: "11:00 AM" },
         { course: "CSE461-04", faculty: "UTKR,CSAB", day: "THU", time: "11:00 AM" },
